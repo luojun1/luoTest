@@ -1,5 +1,5 @@
-change a line
-turn storage
+change a line again
+turn stor    ...e
 changea
 change file;
 a test file;
