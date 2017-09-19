@@ -63,3 +63,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+#xocde记录的本地配置信息，不需要提交
+xcuserdata
