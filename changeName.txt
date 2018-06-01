@@ -5,4 +5,6 @@ change a line again
 turn stor    ...e
 changea
 change file;
-a test file;
+a test file
+
+Zqy modify 4;
